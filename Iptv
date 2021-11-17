@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",ARG VS BRA
-http://d4.anfalrou.xyz/live/616165500/index.m3u8?token=thenayeemparvez
-#EXTINF:-1 tvg- group-title="Sports",Star Sports 1
-http://uknet.ddns.net/710.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",Star Sports 2
-http://uknet.ddns.net/715.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Star Sports 1
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qse-gMfvu92Tssbqqd_Ud2_U
 #EXTINF:-1 tvg- group-title="Sports",A Sports
@@ -27,50 +21,8 @@ http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg- group-title="Sports",EURO SPORTS HD
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-#EXTINF:-1 tvg- group-title="Sports",FUBO SPORTS
-http://ent.gcdn.co/S11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
-http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
-https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
-http://103.106.243.163:8989/ekattor/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
-http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
-http://103.106.243.163:8989/duronto-tv/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24
-http://103.159.4.38:5868/BD-BANGLA-3/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",JAMUNA TV
-http://103.159.4.38:5868/BD-BANGLA-4/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",ATN BANGLA
-http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",BTV
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",BOISHAKI TV
-http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",NEWS 24
-http://103.159.4.38:5868/BD-BANGLA-12/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",DBC
-http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",ATN NEWS
-http://103.159.4.38:5868/BD-BANGLA-14/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",TV 
-http://103.159.4.38:5868/BD-BANGLA-15/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY TV
-http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",BANGLA TV
-http://103.159.4.38:5868/BD-BANGLA-17/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",NTV
-http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Ntv
-https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",N TV
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV (BDIX6). 
