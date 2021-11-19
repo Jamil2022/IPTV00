@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",IND VS NZ(ENGLISH)
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/uqv2c_1oxh-SQ-sdA25Oy0SzgaPgIILRVRBQ1mp8WPdKMX_V0bna8UyFsWnmiOlsTcVddO4C72_JW5EoNrhjiw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?
-#EXTINF:-1 tvg- group-title="Sports",IND VS NZ(HINDI)
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/n-UeYjTfY3Z_wdWwnhm4UJfDdztYH09VCkN7B8NRVIOWSeQN8jc98aDnuj-BiYSjqf99JGT_b5Lpz2dATBKPyA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?
-#EXTINF:-1 tvg- group-title="Sports",Star Sports 1
-http://uknet.ddns.net/710.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",Star Sports 2
-http://uknet.ddns.net/715.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",Star Sports 1
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qse-gMfvu92Tssbqqd_Ud2_U
+#EXTINF:-1 tvg- group-title="Sports",T SPORTS HD
+http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
