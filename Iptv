@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS HD
-http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
@@ -25,6 +25,8 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 http://ent.gcdn.co/S11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
+EXTINF:-1 tvg- group-title="BANGLA",Ekattor 
+http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV (BDIX6). 
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",RTV BD. 
