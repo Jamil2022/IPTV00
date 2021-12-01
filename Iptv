@@ -1,28 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS HD
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY TEN 1 HD
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY TEN 1 HD(2)
-http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD(2)
-http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY TEN 3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY TEN 3 HD(2)
-http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SONY SIX HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1 tvg- group-title="Sports",EURO SPORTS HD
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-#EXTINF:-1 tvg- group-title="Sports",FUBO SPORTS
-http://ent.gcdn.co/S11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SuperSports Cricket
+http://103.157.210.165:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SkySports Cricket
+http://103.157.210.165:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Ekattor 
@@ -31,103 +15,21 @@ http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",RTV BD. 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",RTV BD
-http://tv.alphamediazone.com:8089/thunderbd/14/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",
 #EXTINF:-1 tvg- group-title="BANGLA",Sangsad Bangladesh. 
 http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",ATN BANGLA
-http://tv.alphamediazone.com:8089/thunderbd/2/index.m3u8
+
 #EXTINF:-1 tvg- group-title="BANGLA",NEWS 24
-http://tv.alphamediazone.com:8089/thunderbd/18/index.m3u8
+
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 9
-http://tv.alphamediazone.com:8089/thunderbd/4/index.m3u8
+
 #EXTINF:-1 tvg- group-title="BANGLA",Bangla Tv
 http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
 http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO 
 http://tv.alphamediazone.com:8089/thunderbd/10/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",JAMUNA
-http://tv.alphamediazone.com:8089/thunderbd/13/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Dipto tv 
-https://last.gcdn.co/IND450/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Asian tv
-https://last.gcdn.co/IND451/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",SA TV
-https://last.gcdn.co/IND449/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Bangla tv
-https://last.gcdn.co/IND448/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Boisaki tv
-https://last.gcdn.co/IND447/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",I tv
-https://last.gcdn.co/IND445/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Stv
-https://last.gcdn.co/IND444/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Desh tv
-https://last.gcdn.co/IND443/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",GB tv
-https://last.gcdn.co/IND442/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Mohona tv
-https://last.gcdn.co/IND441/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Bijoy tv
-https://last.gcdn.co/IND455/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",My tv
-https://last.gcdn.co/IND439/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Atn bangla
-https://last.gcdn.co/IND438/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Atn bangla UK
-https://last.gcdn.co/IND437/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Atn news
-https://last.gcdn.co/IND436/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Channel 9
-https://last.gcdn.co/IND435/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Jamuna tv
-https://last.gcdn.co/IND432/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Channel24
-https://last.gcdn.co/IND431/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Independent 
-https://last.gcdn.co/IND430/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",71 tv
-https://last.gcdn.co/IND429/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Dbc
-https://last.gcdn.co/IND428/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Btv
-https://last.gcdn.co/IND427/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Maasranga
-https://last.gcdn.co/IND426/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Gtv
-https://last.gcdn.co/IND425/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Bangla vision
-https://last.gcdn.co/IND423/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Rtv
-https://last.gcdn.co/IND422/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Ntv
-https://last.gcdn.co/IND420/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Chanal i
-https://last.gcdn.co/IND419/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Somoy
-https://last.gcdn.co/IND418/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",ISLAMIC
-https://last.gcdn.co/IND412/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Peace tv
-https://last.gcdn.co/IND411/index.m3u8
-#EXTINF:-1 tvg- group-title="LASTGDCN",Atn islam
-https://last.gcdn.co/IND410/index.m3u8
-#EXTINF:-1 tvg- group-title="INDIAN",Sony Aath 
-http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
-#EXTINF:-1 tvg- group-title="INDIAN",Colors Bangla
-http://uknet.ddns.net/904.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="INDIAN",Zee Bangla
-https://last.gcdn.co/IND390/index.m3u8
-#EXTINF:-1 tvg- group-title="INDIAN",Star Jalsha
-https://last.gcdn.co/IND391/index.m3u8
-#EXTINF:-1 tvg- group-title="INDIAN",SONGIT BANGLA
-https://last.gcdn.co/IND405/index.m3u8
 #EXTINF:-1 tvg- group-title="ISLAMIC",Peace TV. 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg- group-title="DOCUMENTARY",NAT GEO BANGLA
-https://last.gcdn.co/IND414/index.m3u8
-#EXTINF:-1 tvg- group-title="DOCUMENTARY",DISCOVERY BANGLA
-https://last.gcdn.co/IND415/index.m3u8
-#EXTINF:-1 tvg- group-title="DOCUMENTARY",DISCOVERY BANGLA (2)
-https://236s.short.gy/DreamTV/DisBangla.m3u8
+
