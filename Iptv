@@ -11,6 +11,8 @@ http://103.157.210.165:8000/play/a024/index.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY SIX HD
 http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 2
+http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
 http://103.131.212.138:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",WILLOW
