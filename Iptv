@@ -11,6 +11,28 @@ http://103.157.210.165:8000/play/a024/index.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
 http://103.131.212.138:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",WILLOW
+http://208.86.19.21:80/731.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SKY SPORTS MIX
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/7608.m3u8
+#EXTINF:-1 tvg- group-title="Sports",FOX 501
+http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65800.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SKY SPORT MAIN EVENT
+http://xtream-ui03.feel-tv.com:25461/live/Vwelsbfa/widnv39573sldba/700.m3u8🏏🏏Sydney Thunder 🇦🇺vs 🇦🇺Brisbane Heat🏏🏏
+#EXTINF:-1 tvg- group-title="Sports",BEIN SPORTS 3 ENGLISH 
+http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY SIX HD
+http://208.86.19.21:80/740.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY SIX HD
+http://103.131.212.138:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 1
+http://103.131.212.138:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 2
+http://103.131.212.138:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 3
+http://103.131.212.138:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",A SPORTS
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Ekattor 
