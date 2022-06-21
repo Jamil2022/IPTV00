@@ -11,3 +11,5 @@ https://networkbest.ru.com/cdn/premium368/chunks.m3u8?|Referer=https://player.li
 https://networkbest.ru.com/cdn/premium346/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://raax.xyz/SportsCornerGroup/playlist.m3u8?ch=hdchnl11|User-Agent=SportsCornerGroup&Referer=https://noob4cast.com/&cookie=SportsCornerGroup
+#EXTINF:-1 tvg- group-title="Bangla",Boishakhi 
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
